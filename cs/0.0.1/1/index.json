@@ -3,5 +3,5 @@
     "version":"0.0.1",
     "ios":"index.ios.bundle",
     "android":"index.android.bundle",
-    "assetsDest":"res"
+    "assetsDest":"undefined"
 }
